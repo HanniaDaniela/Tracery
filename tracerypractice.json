@@ -1,0 +1,85 @@
+{
+	"name": [
+		"Daniella",
+		"Carlos",
+		"Tiffany",
+		"Luna",
+		"Trey",
+		"Emmy",
+		"Iesha",
+		"Amy"
+	],
+	"occupation": [
+		"YouTuber",
+		"KPop Artist",
+		"Dancer",
+		"Chef",
+		"Blogger",
+		"Photographer"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# #random#, but #name# #action# it. #click# to find out how this #situation# #affected# their #relationship#! Its #hyperbole#!"
+	],
+	"always": [
+		"never",
+		"rarely",
+		"seldom",
+		"sometimes",
+		"incessantly",
+		"consistenly",
+		"always"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"envisioning",
+		"assuming",
+		"avoiding"
+	],
+	"random": [
+		"trouble",
+		"drama",
+		"conflict",
+		"failure",
+		"success",
+		""
+	],
+	"action": [
+		"created",
+		"avoided",
+		"provided",
+		"brought",
+		"disregarded",
+		"ignored",
+		"started"
+	],
+	"relationship": [
+		"family relations ",
+		"friendship",
+		"business deal",
+		""
+	],
+	"situation": [
+		"disagreement",
+		"altercation",
+		"contradiction",
+		""
+	],
+	"affected": [
+		"ruined",
+		"strengthened",
+		"changed",
+		"tested",
+		"jeopardized"
+	],
+	"click": [
+		"Watch this video",
+		"Read this article ",
+		"See this post"
+	],
+	"hyperbole": [
+		"scandalous",
+		"heartbreaking",
+		"shocking"
+	]
+}
